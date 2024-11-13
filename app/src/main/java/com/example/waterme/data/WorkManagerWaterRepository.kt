@@ -49,6 +49,5 @@ class WorkManagerWaterRepository(context: Context) : WaterRepository {
             ExistingWorkPolicy.REPLACE,
             workRequestBuilder
         )
-
     }
 }
